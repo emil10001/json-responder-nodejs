@@ -13,6 +13,11 @@ Date: Sat, 27 Apr 2013 22:18:17 GMT
 Connection: keep-alive
 Transfer-Encoding: chunked
 
-{"hostname":"remote host feigdev","user":"user","auth_token":"ajfowienfoani/nawogfina/1w3inoangoins","password":"password","database":"database"}
+{ "hostname":"remote host feigdev",
+  "user":"user",
+  "auth_token":"ajfowienfoani/nawogfina/1w3inoangoins",
+  "password":"password",
+  "database":"database"
+}
 </pre>
 
